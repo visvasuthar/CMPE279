@@ -9,5 +9,5 @@ to compile
 ```gcc server.c -o server```  
 
 to run   
-```./server```
+```./server```   
 ```./client```
