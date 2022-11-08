@@ -4,6 +4,10 @@ files:
 client.c   
 server.c   
 
-executable files:   
-client   
-server   
+to compile   
+```gcc client.c -o client```   
+```gcc server.c -o server```  
+
+to run   
+```./server```
+```./client```
